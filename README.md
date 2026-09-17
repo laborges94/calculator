@@ -28,7 +28,11 @@ Aqui estão algumas ideias de melhorias ou extensões:
 5. **Extensões para cálculo científico ou financeiro**  
    - Módulo financeiro: amortização, juros compostos, investimentos  
    - Módulo científico: cálculo matricial, estatística básica, álgebra linear  
-
+ 
+## Licença
+ 
+Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
+ 
 ---
 
 # Calculator (English Version)
@@ -61,3 +65,7 @@ Here are some ideas for improvements or extensions:
 5. **Extensions for scientific or financial calculations**  
    - Financial module: amortization, compound interest, investments  
    - Scientific module: matrix calculations, basic statistics, linear algebra  
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
